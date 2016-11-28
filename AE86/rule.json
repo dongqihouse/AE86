@@ -1,0 +1,32 @@
+ [
+  {
+  "site":"AOYOSO",
+  "waiting":"0",
+  "group":"//div[@class='col-md-8']//div[@class='panel panel-default']",
+  "magnet":".//a//@href",
+  "name":".//a",
+  "size":".//table//tr//td[2]",
+  "count":".//table//tr//td[1]",
+  "source":"http://www.aoyoso.com/search/XXX_ctime_1.html"
+  },
+  {
+  "site":"BT云搜",
+  "waiting":"0",
+  "group":"//li[@class='media']",
+  "magnet":".//a//@href",
+  "name":".//a",
+  "size":".//div[@class='media-more']//span[2]",
+  "count":".//div[@class='media-more']//span[1]",
+  "source":"http://www.btyunsou.com/search/XXX_ctime_1.html"
+  },
+  {
+  "site":"种子搜",
+  "waiting":"0",
+  "group":"//table[@class='table table-bordered table-striped']",
+  "magnet":".//a//@href",
+  "name":".//tbody//a",
+  "size":".//tbody//tr//td[2]//strong",
+  "count":".//tbody//tr//td[1]//strong",
+  "source":"http://www.zhongziso.com/list/XXX/1"
+  }
+  ]

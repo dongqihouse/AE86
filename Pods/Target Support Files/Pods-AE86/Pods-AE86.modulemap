@@ -1,0 +1,6 @@
+framework module Pods_AE86 {
+  umbrella header "Pods-AE86-umbrella.h"
+
+  export *
+  module * { export * }
+}
